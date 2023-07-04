@@ -3,7 +3,7 @@ Link to unlisted YouTube video:
 //https://youtu.be/2isqlDtDlFw
 
 Public link to the slide (Anyone on the internet can view without login):
-//https://docs.google.com/presentation/d/1rBYaFyOaQuEWv0scpebhOq7U8mguRkIEzEdi9oHB7hs/edit
+https://docs.google.com/presentation/d/1WQPClHLHZ00JpUfd8l8knhIQ6XxxWUBkihdoa_oRoJM/edit?usp=sharing
 
 Paper title:
 Hate Speech and Counter Speech Detection: Conversational Context Does Matter
