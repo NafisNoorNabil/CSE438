@@ -6,10 +6,10 @@ Public link to the slide (Anyone on the internet can view without login):
 //https://docs.google.com/presentation/d/1rBYaFyOaQuEWv0scpebhOq7U8mguRkIEzEdi9oHB7hs/edit
 
 Paper title:
-//Ignore Previous Prompt: Attack Techniques For Language Models
+Hate Speech and Counter Speech Detection: Conversational Context Does Matter
 
 Link to the paper:
-//https://arxiv.org/abs/2211.09527
+https://arxiv.org/abs/2206.06423
 
 Group Number:
 12
